@@ -1,6 +1,6 @@
 {
   "name": "paymate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Unified payment integration library for React. Supports Stripe, PayPal, Apple Pay, Google Pay & Venmo. Simplifies payment processing with one consistent API. Streamlines development and enhances user experience.",
   "main": "dist/index.js",
   "scripts": {
