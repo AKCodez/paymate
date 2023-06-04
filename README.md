@@ -19,24 +19,10 @@ Using npm:
 
 ```bash
 npm install paymate
+
 Using yarn:
-
-bash
-Copy code
 yarn add paymate
-Usage
-jsx
-Copy code
-import { PaymentButton } from 'paymate';
 
-// Use it in your component
-<PaymentButton onClick={handleClick}>Pay Now</PaymentButton>
-More examples and detailed usage can be found in our Documentation.
-
-Testing
-bash
-Copy code
-npm test
 Contribution
 Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
 
